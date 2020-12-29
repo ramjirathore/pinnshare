@@ -9,8 +9,6 @@ import {
 import Users from './user/pages/Users';
 import NewPlace from './places/pages/NewPlace';
 
-let x;
-
 const App = () => {
 	return (
 		<Router>
